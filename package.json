@@ -1,0 +1,12 @@
+{
+  "name": "moni-web-types",
+  "version": "1.0.0",
+  "description": "moni web common types",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["types", "moni"],
+  "author": "qmzik",
+  "license": "ISC"
+}
